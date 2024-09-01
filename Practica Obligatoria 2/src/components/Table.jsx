@@ -1,4 +1,6 @@
 
+
+
 const Table = ({netIncomes}) => {
     return(
         <table>
